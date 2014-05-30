@@ -1,0 +1,2 @@
+source 'https://taobao.com'
+gem 'gihub-pages'
